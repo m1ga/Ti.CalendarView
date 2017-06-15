@@ -50,7 +50,7 @@ exports.getView = function(obj) {
 	// var height = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 300, activity.getResources().getDisplayMetrics());
 	//var layoutParams = new LayoutParams(width, height, Gravity.CENTER);
 
-	var calMode = CalendarMode.MONTH;
+	var calMode = CalendarMode.MONTHS;
 	if (obj.mode == "week") {
 		calMode = CalendarMode.WEEKS
 	} else {
