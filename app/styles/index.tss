@@ -13,3 +13,7 @@
 		fontSize: 12
 	}
 }
+
+"#btn_today": {
+	bottom: 0
+}
