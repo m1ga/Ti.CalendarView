@@ -1,4 +1,4 @@
-# Hyperloop calendar module for Android
+# Axway Hyperloop calendar module for Android
 
 used library: <https://github.com/prolificinteractive/material-calendarview>
 
@@ -47,3 +47,5 @@ $.index.add(calView);
 $.index.open();
 
 ```
+
+For an iOS Version visit: https://github.com/nazrdogan/Ti.FSCalendar by @nazrdogan
